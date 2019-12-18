@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToolCabinet</string>
+    <string name="btn_music">音乐播放器</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_count">计算器</string>
+    <string name="btn_book" >记事本</string>
+</resources>
